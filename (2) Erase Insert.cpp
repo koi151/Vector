@@ -39,7 +39,6 @@ Sample Output 0
 */
 
 #include "bits/stdc++.h"
-#include <vector>
 #define FAST_IO ios::sync_with_stdio(0)
 
 using namespace std;
